@@ -1,16 +1,1 @@
-# careernexus
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ CareerNexus is a Flutter-based application designed to help users manage and advance their careers. This project serves as a starting point for Flutter development, offering resources like the [Flutter codelab](https://docs.flutter.dev/get-started/codelab) for beginners and a [cookbook](https://docs.flutter.dev/cookbook) for useful samples. For comprehensive guidance, refer to the [Flutter documentation](https://docs.flutter.dev/), which includes tutorials, examples, and API references to support mobile development.
